@@ -111,8 +111,6 @@ bundle exec rspec
 * This is a **plain Ruby setup**, not Rails.
 * Suitable for:
   * Learning accessibility testing
-  * CI/CD pipelines
-  * Accessibility checks on static or remote pages
 
 ---
 
